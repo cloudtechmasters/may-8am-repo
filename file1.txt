@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is file1 from develop branch
+=======
+this is file1 from main branch
+>>>>>>> feature-1
